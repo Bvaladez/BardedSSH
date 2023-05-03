@@ -5,4 +5,5 @@ are operating on a command line. The application sources all work of any magnitu
 individual threads, makes minimal network calls, and requires almost no data to be stored or
 fetched from the device itself.
 
+![alt text](https://github.com/Bvaladez/BardedSSH/blob/main/images/HomePageLoadApp.jpg?raw=true)
 ![alt text](https://github.com/Bvaladez/BardedSSH/blob/main/images/BeforeCDCommand.jpg?raw=true)
