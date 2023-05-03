@@ -4,3 +4,5 @@ and driven by a GUI. Although the application is completely composed of a GUI it
 are operating on a command line. The application sources all work of any magnitude through
 individual threads, makes minimal network calls, and requires almost no data to be stored or
 fetched from the device itself.
+
+![alt text](https://github.com/Bvaladez/BardedSSH/blob/main/images/BeforeCDCommand.jpg?raw=true)
